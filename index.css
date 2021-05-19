@@ -1,0 +1,27 @@
+ /* Container needed to position the button*/
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Style of the button */
+.container .btn {
+  position: relative;
+  top: 350%;
+  left: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #56002F;
+  color: white;
+  font-size: 25px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+} 
+
+
