@@ -1,6 +1,6 @@
 # Basic_Banking_System
-This repository consists of codes of Sparks Foundation Internship Task i.e., Basic Banking System.
-This web application consists of 10 dummy details of the customers. The Transaction of money between the multiple users are taken place here and the transaction details are also displayed.
+This Repository consists of codes of Sparks Foundation Internship Task i.e., Basic Banking System.
+This Web Application consists of 10 dummy details of the customers. The Transaction of money between the multiple users are taken place here and the transaction details are also displayed.
 
 <b>TECHNOLOGIES USED :</b> <br>
 -- Frontend : HTML,CSS,Bootstrap,JavaScript <br>
