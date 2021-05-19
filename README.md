@@ -10,6 +10,6 @@ This web application consists of 10 dummy details of the customers. The Transact
 <b>FLOW OF THE PROJECT :</b> <br>
 Home Page > View all Customers > Select and View one 
 Customer > Transfer Money > Select customer to transfer to > 
-View all Customers . 
+View all Customers.
 
 <b>CONTACT :</b> https://www.linkedin.com/in/bhavani-kaithepalli-03404a199/
